@@ -53,15 +53,26 @@ white() {
 #main program
 for i in seq 1 2; do
 	red
+	sleep 0.5
 	red
+	sleep 0.5
 	red
+	sleep 0.5
 	blue
+	sleep 0.5
 	blue
+	sleep 0.5
 	blue
+	sleep 0.5
 	green
+	sleep 0.5
 	green
+	sleep 0.5
 	green
+	sleep 0.5
 	yellow
+	sleep 0.5
 	yellow
+	sleep 0.5
 	yellow
 done
