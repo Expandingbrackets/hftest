@@ -11,7 +11,9 @@ The cycle will repeat after.
 
 Task 4
 To check the button states, so when the button is pressed - the LED will light up:
+(edited, sadly)
 
-1.first time pressed - green LED 🟢
-2.second time pressed - blue LED 🔵
-3.third time pressed - red LED   🔴
+1. first time pressed - the LED will light up 3 times in red  🔴
+2. second time pressed - the LED will light up 3 times in blue 🔵
+3. third time pressed - the LED will light up 3 times in green  🟢
+4. fourth time pressed - the LED will light up 3 times in yellow 🟡
