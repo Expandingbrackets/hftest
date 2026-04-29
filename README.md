@@ -8,3 +8,9 @@ This is an example of controlling HUB's LEDs using this pseudocode:
 4. 3 <yellow>yellows</yellow> 🟡
 
 The cycle will repeat after.
+
+Task 4
+To check the button states, so when the button is pressed - the LED will light up:
+	first time pressed - green LED 🟢
+	second time pressed - blue LED 🔵
+	third time pressed - red LED   🔴
