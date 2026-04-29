@@ -9,7 +9,8 @@ This is an example of controlling HUB's LEDs using this pseudocode:
 
 The cycle will repeat after.
 
-Task 4
+Developed Task
+
 To check the button states, so when the button is pressed - the LED will light up:
 (edited, sadly)
 
